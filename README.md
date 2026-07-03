@@ -215,7 +215,7 @@ Add screenshots here after completing the project.
 
 - **Patan Irfan Khan** (Team Lead)
 - Sharina Kovvuru
-- **Jasmine Supraja Korrapati** (Team Member)
+- **Jasmine Supraja Korrapati** (Team member)
 - Nallabathuni Pallavi
 - Divya Sree Yedirinti Chittem Reddy
 
